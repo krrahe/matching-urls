@@ -45,5 +45,5 @@ Flags are used to modify the behavior of the regex engine. In this pattern, no f
 ## Character Escapes
 The backslash is used to escape characters that have a special meaning in regex. For example, the backslash followed by a dot matches a literal dot character, rather than any character.
 
-Author
+## Author
 I am Riley Rahe, middle 20s from kansas. I always thought that coding would be neat. Might as well try to be productive on the computer right. 
